@@ -1,6 +1,6 @@
 # INTERFACE
 ## AIM:
-To Develop a small bank application by declaring deposit() and withdrawal() as abstract methods in the interface. Get the choice from the user whether to perform withdrawal or deposit operation. After the operation completes, display the balance amount.
+To develop a small bank application by declaring deposit () and withdrawal () as abstract methods in the interface. Get the choice from the user whether to perform withdrawal or deposit operation. After the operation completes, display the balance amount.
 
 ## ALGORITHM:
 ### STEP 1:
@@ -10,13 +10,13 @@ Create an interface.
 Create a child class.
 
 ### STEP 3:
-Declare 2 functions deposit() and withdrawal() as abstract methods in the interface.
+Declare 2 functions deposit () and withdrawal () as abstract methods in the interface.
 
 ### STEP 4:
 Create those 2 functions in the child class and perform respective operation.
 
 ### STEP 5:
-Use while loop and and switch case to Get the choice from the user whether to perform withdrawal or deposit operation.
+Use while loop and switch case to Get the choice from the user whether to perform withdrawal or deposit operation.
 
 ### STEP 6:
 After performing the functions display the remaining balance of the use.
